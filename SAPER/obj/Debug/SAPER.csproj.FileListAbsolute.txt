@@ -1,0 +1,38 @@
+c:\users\paula\documents\visual studio 2015\Projects\SAPER\SAPER\bin\Debug\SAPER.exe.config
+c:\users\paula\documents\visual studio 2015\Projects\SAPER\SAPER\bin\Debug\SAPER.exe
+c:\users\paula\documents\visual studio 2015\Projects\SAPER\SAPER\bin\Debug\SAPER.pdb
+c:\users\paula\documents\visual studio 2015\Projects\SAPER\SAPER\obj\Debug\SAPER.csprojResolveAssemblyReference.cache
+c:\users\paula\documents\visual studio 2015\Projects\SAPER\SAPER\obj\Debug\SAPER.exe
+c:\users\paula\documents\visual studio 2015\Projects\SAPER\SAPER\obj\Debug\SAPER.pdb
+C:\Users\User\Desktop\REPOSAPER\reposaper\SAPER\bin\Debug\SAPER.exe.config
+C:\Users\User\Desktop\REPOSAPER\reposaper\SAPER\obj\Debug\SAPER.exe
+C:\Users\User\Desktop\REPOSAPER\reposaper\SAPER\obj\Debug\SAPER.pdb
+C:\Users\User\Desktop\REPOSAPER\reposaper\SAPER\bin\Debug\SAPER.exe
+C:\Users\User\Desktop\REPOSAPER\reposaper\SAPER\bin\Debug\SAPER.pdb
+C:\Users\User\Desktop\REPOSAPER\reposaper\SAPER\obj\Debug\SAPER.csprojResolveAssemblyReference.cache
+C:\Users\Magda\Source\Repos\reposaper\SAPER\bin\Debug\SAPER.exe.config
+C:\Users\Magda\Source\Repos\reposaper\SAPER\obj\Debug\SAPER.exe
+C:\Users\Magda\Source\Repos\reposaper\SAPER\obj\Debug\SAPER.pdb
+C:\Users\Magda\Source\Repos\reposaper\SAPER\bin\Debug\SAPER.exe
+C:\Users\Magda\Source\Repos\reposaper\SAPER\bin\Debug\SAPER.pdb
+C:\Users\Magda\Source\Repos\reposaper\SAPER\obj\Debug\SAPER.csprojResolveAssemblyReference.cache
+C:\Users\Lucato\Documents\reposaper\SAPER\bin\Debug\SAPER.exe.config
+C:\Users\Lucato\Documents\reposaper\SAPER\obj\Debug\SAPER.exe
+C:\Users\Lucato\Documents\reposaper\SAPER\obj\Debug\SAPER.pdb
+C:\Users\Lucato\Documents\reposaper\SAPER\bin\Debug\SAPER.exe
+C:\Users\Lucato\Documents\reposaper\SAPER\bin\Debug\SAPER.pdb
+C:\Users\Lucato\Documents\reposaper\SAPER\obj\Debug\SAPER.csprojResolveAssemblyReference.cache
+C:\Users\Magda\Downloads\reposaper\reposaper\SAPER\bin\Debug\SAPER.exe.config
+C:\Users\Magda\Downloads\reposaper\reposaper\SAPER\obj\Debug\SAPER.exe
+C:\Users\Magda\Downloads\reposaper\reposaper\SAPER\obj\Debug\SAPER.pdb
+C:\Users\Magda\Downloads\reposaper\reposaper\SAPER\bin\Debug\SAPER.exe
+C:\Users\Magda\Downloads\reposaper\reposaper\SAPER\bin\Debug\SAPER.pdb
+C:\Users\Magda\Downloads\reposaper\reposaper\SAPER\obj\Debug\SAPER.csprojResolveAssemblyReference.cache
+C:\Users\Magda\Downloads\reposaper\reposaper\SAPER\bin\Debug\Ranking.mdf
+C:\Users\Magda\Downloads\reposaper\reposaper\SAPER\bin\Debug\Ranking_log.ldf
+D:\PB sem5\KCK\reposaper\reposaper\SAPER\bin\Debug\SAPER.exe.config
+D:\PB sem5\KCK\reposaper\reposaper\SAPER\obj\Debug\SAPER.exe
+D:\PB sem5\KCK\reposaper\reposaper\SAPER\obj\Debug\SAPER.pdb
+C:\Users\Magda\Source\Saperwpf\SAPER\bin\Debug\SAPER.exe.config
+C:\Users\Magda\Source\Saperwpf\SAPER\obj\Debug\SAPER.exe
+C:\Users\Magda\Source\Saperwpf\SAPER\obj\Debug\SAPER.pdb
